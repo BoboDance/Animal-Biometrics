@@ -1,0 +1,97 @@
+\begin{thebibliography}{10}
+
+\bibitem{Branson:2014}
+S.~Branson, G.~V. Horn, S.~J. Belongie, and P.~Perona.
+\newblock Bird species categorization using pose normalized deep convolutional
+  nets.
+\newblock {\em CoRR}, abs/1406.2952, 2014.
+
+\bibitem{Chen:2014}
+G.~Chen, T.~X. Han, Z.~He, R.~Kays, and T.~Forrester.
+\newblock Deep convolutional neural network based species recognition for wild
+  animal monitoring.
+\newblock In {\em 2014 IEEE International Conference on Image Processing
+  (ICIP)}, pp. 858--862, Oct 2014. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1109\discretionary{/}{%
+}{/}ICIP\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}2014\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}7025172}}
+
+
+\bibitem{Freytag:2014}
+A.~Freytag, E.~Rodner, M.~Simon, A.~Loos, H.~S. Kühl, and J.~Denzler1.
+\newblock Chimpanzee faces in the wild: Log-euclidean cnns for predicting
+  identities and attributes of primates.
+\newblock {\em GCPR: Pattern Recognition}, 9796, 2016.
+
+\bibitem{Gomez:2016}
+A.~G{\'{o}}mez, A.~Salazar, and F.~V. Bonilla.
+\newblock Towards automatic wild animal monitoring: Identification of animal
+  species in camera-trap images using very deep convolutional neural networks.
+\newblock {\em CoRR}, abs/1603.06169, 2016.
+
+\bibitem{Gomez:2016:Low}
+A.~Gomez~Villa, G.~Diez, A.~Salazar, and A.~Diaz.
+\newblock Animal identification in low quality camera-trap images using very
+  deep convolutional neural networks and confidence thresholds.
+\newblock vol. 10072, pp. 747--756, 12 2016.
+
+\bibitem{Burghardt:2016}
+B.~Hughes and T.~Burghardt.
+\newblock Automated visual fin identification of individual great white sharks.
+\newblock {\em CoRR}, abs/1609.06323, 2016.
+
+\bibitem{Lin:2015}
+T.-Y. Lin, A.~RoyChowdhury, and S.~Maji.
+\newblock Bilinear cnn models for fine-grained visual recognition.
+\newblock In {\em International Conference on Computer Vision (ICCV)}, 2015.
+
+\bibitem{Parkhi:2015}
+O.~M.~Parkhi, A.~Vedaldi, and A.~Zisserman.
+\newblock Deep face recognition.
+\newblock 1:41.1--41.12, 01 2015.
+
+\bibitem{Norouzzadeh:2017:Count}
+M.~S. Norouzzadeh, A.~Nguyen, M.~Kosmala, A.~Swanson, C.~Packer, and J.~Clune.
+\newblock Automatically identifying, counting, and describing wild animals in
+  camera-trap images with deep learning.
+\newblock {\em CoRR}, abs/1703.05830, 2017.
+
+\bibitem{Norouzzadeh:2017}
+M.~S. Norouzzadeh, A.~Nguyen, M.~Kosmala, A.~Swanson, C.~Packer, and J.~Clune.
+\newblock Automatically identifying wild animals in camera trap images with
+  deep learning.
+\newblock {\em CoRR}, abs/1703.05830, 2017.
+
+\bibitem{Simon:2015}
+M.~Simon and E.~Rodner.
+\newblock Neural activation constellations: Unsupervised part model discovery
+  with convolutional networks.
+\newblock {\em CoRR}, abs/1504.08289, 2015.
+
+\bibitem{Weinstein:2017}
+B.~G. Weinstein.
+\newblock A computer vision for animal ecology.
+\newblock {\em Journal of Animal Ecology}, 87(3):533--545. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1111\discretionary{/}{%
+}{/}1365\discretionary{%
+}{-}{-}2656\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}12780}}
+
+
+\bibitem{Yu:2013}
+X.~Yu, J.~Wang, R.~Kays, P.~A. Jansen, T.~Wang, and T.~Huang.
+\newblock Automated identification of animal species in camera trap images.
+\newblock {\em EURASIP Journal on Image and Video Processing}, 2013(1):52, Sep
+  2013. doi: {{%
+10\hspace{.1pt}\discretionary{.}{%
+}{.}\hspace{.4pt}1186\discretionary{/}{%
+}{/}1687\discretionary{%
+}{-}{-}5281\discretionary{%
+}{-}{-}2013\discretionary{%
+}{-}{-}52}}
+
+
+\end{thebibliography}

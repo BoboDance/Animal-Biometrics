@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Summary.aux
+The style file: abbrv-doi.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: sources.bib
+I was expecting a `,' or a `}'---line 64 of file sources.bib
+ :  
+ :  Year = {2017}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring Gomez:2016:Low's extra "volume" field
+--line 170 of file sources.bib
+Warning--empty booktitle in Gomez:2016:Low
+Warning--empty journal in Parkhi:2015
+Warning--empty year in Weinstein:2017
+You've used 13 entries,
+            2598 wiz_defined-function locations,
+            683 strings with 7240 characters,
+and the built_in function-call counts, 7121 in all, are:
+= -- 1171
+> -- 293
+< -- 149
++ -- 262
+- -- 105
+* -- 363
+:= -- 1131
+add.period$ -- 39
+call.type$ -- 13
+change.case$ -- 90
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 162
+empty$ -- 319
+format.name$ -- 102
+if$ -- 1697
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 13
+newline$ -- 87
+num.names$ -- 26
+pop$ -- 84
+preamble$ -- 1
+purify$ -- 77
+quote$ -- 0
+skip$ -- 125
+stack$ -- 0
+substring$ -- 328
+swap$ -- 33
+text.length$ -- 82
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 52
+warning$ -- 3
+while$ -- 39
+width$ -- 15
+write$ -- 231
+(There was 1 error message)
