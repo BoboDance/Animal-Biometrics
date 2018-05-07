@@ -25,6 +25,12 @@ A.~Freytag, E.~Rodner, M.~Simon, A.~Loos, H.~S. Kühl, and J.~Denzler1.
   identities and attributes of primates.
 \newblock {\em GCPR: Pattern Recognition}, 9796, 2016.
 
+\bibitem{Gebru:2017}
+T.~Gebru, J.~Hoffman, and L.~Fei{-}Fei.
+\newblock Fine-grained recognition in the wild: {A} multi-task domain
+  adaptation approach.
+\newblock {\em CoRR}, abs/1709.02476, 2017.
+
 \bibitem{Gomez:2016}
 A.~G{\'{o}}mez, A.~Salazar, and F.~V. Bonilla.
 \newblock Towards automatic wild animal monitoring: Identification of animal
@@ -41,6 +47,11 @@ A.~Gomez~Villa, G.~Diez, A.~Salazar, and A.~Diaz.
 B.~Hughes and T.~Burghardt.
 \newblock Automated visual fin identification of individual great white sharks.
 \newblock {\em CoRR}, abs/1609.06323, 2016.
+
+\bibitem{Lin:2017:Improv}
+T.-Y. Lin and S.~Maji.
+\newblock {Improved Bilinear Pooling with CNNs}.
+\newblock In {\em British Machine Vision Conference (BMVC)}, 2017.
 
 \bibitem{Lin:2015}
 T.-Y. Lin, A.~RoyChowdhury, and S.~Maji.
@@ -69,6 +80,11 @@ M.~Simon and E.~Rodner.
 \newblock Neural activation constellations: Unsupervised part model discovery
   with convolutional networks.
 \newblock {\em CoRR}, abs/1504.08289, 2015.
+
+\bibitem{Ulyanov:2017}
+D.~Ulyanov, A.~Vedaldi, and V.~S. Lempitsky.
+\newblock Deep image prior.
+\newblock {\em CoRR}, abs/1711.10925, 2018.
 
 \bibitem{Weinstein:2017}
 B.~G. Weinstein.
