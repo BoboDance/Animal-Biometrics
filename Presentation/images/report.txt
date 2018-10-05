@@ -1,0 +1,104 @@
+                    precision    recall  f1-score   support
+
+Extremely Rare < 50       0.45      0.29      0.36       103
+          No Animal       0.98      0.99      0.98     60236
+      Normal > 1000       0.97      0.97      0.97     39932
+         Rare > 200       0.92      0.65      0.76       623
+       Scarce > 500       0.90      0.69      0.78      1077
+     Very Rare > 50       0.98      0.45      0.62       317
+
+        avg / total       0.97      0.97      0.97    102288
+
+
+
+                          precision    recall  f1-score   support
+
+   Asian small-clawed otter       1.00      0.50      0.67         4
+               Banded civet       0.98      0.73      0.84       168
+             Banded linsang       0.00      0.00      0.00         5
+                    Banteng       1.00      0.92      0.95       273
+                    Bay cat       1.00      0.20      0.33        15
+                Bearded pig       1.00      0.93      0.97        15
+                  Binturong       1.00      0.64      0.78        11
+                       Bird       1.00      0.48      0.65        27
+       Black-capped babbler       1.00      0.22      0.36         9
+        Black-crowned pitta       0.00      0.00      0.00         1
+             Blue flycather       0.00      0.00      0.00         1
+          Blue-headed pitta       0.00      0.00      0.00         2
+      Bornean ground-cuckoo       1.00      0.62      0.77        53
+Bornean necklaced partridge       0.94      0.52      0.67        31
+   Bornean peacock pheasant       0.00      0.00      0.00         2
+     Bornean yellow muntjac       0.96      0.96      0.96      6879
+         Buff-vented bulbul       0.00      0.00      0.00         1
+             Bushy fish owl       0.00      0.00      0.00         1
+      Changeable hawk eagle       1.00      0.67      0.80         3
+            Clouded leopard       0.97      0.65      0.78       159
+          Collared mongoose       0.86      0.25      0.39        24
+          Common palm civet       0.96      0.61      0.74        38
+           Common porcupine       0.89      0.93      0.91      1525
+           Crested fireback       0.99      0.96      0.97      3066
+      Crested serpent eagle       0.82      0.60      0.69        15
+                        Dog       1.00      0.64      0.78        14
+                   Elephant       0.94      0.97      0.96      3017
+               Emerald dove       0.94      0.69      0.80        72
+                 Encroacher       0.00      0.00      0.00         5
+            Flat-headed cat       0.00      0.00      0.00         2
+                      Ghost       0.96      0.98      0.97     38113
+             Giant squirrel       0.00      0.00      0.00         2
+                Great argus       0.96      0.98      0.97      4285
+             Greater coucal       1.00      0.67      0.80        15
+                Grey langur       1.00      0.33      0.50         3
+      Horse-tailed squirrel       0.63      0.51      0.57        80
+                      Human       0.99      0.89      0.94       312
+                Leopard cat       0.88      0.87      0.88       451
+                     Lizard       0.00      0.00      0.00         1
+        Long-tailed macaque       0.96      0.92      0.94       593
+      Long-tailed porcupine       0.64      0.62      0.63       228
+               Malay badger       0.99      0.74      0.85       185
+                Malay civet       0.91      0.90      0.90      1073
+      Malaysian night heron       1.00      0.73      0.84        11
+                Marbled cat       0.94      0.66      0.78        71
+              Maroon langur       0.00      0.00      0.00         3
+                   Mongoose       0.00      0.00      0.00         3
+             Monitor lizard       1.00      0.50      0.67        16
+                    Moonrat       0.95      0.75      0.83       122
+                 Mouse deer       0.98      0.66      0.79      1140
+                  Mousedeer       0.85      0.95      0.90      6806
+                  Orangutan       0.97      0.77      0.86       174
+           Oriental bay owl       0.00      0.00      0.00         2
+                      Otter       0.00      0.00      0.00         2
+                Otter civet       0.00      0.00      0.00         2
+                   Pangolin       0.88      0.53      0.66        68
+         Pig-tailed macaque       0.95      0.93      0.94      4864
+                    Poacher       0.00      0.00      0.00         3
+                  Porcupine       0.00      0.00      0.00         1
+                        Rat       0.88      0.56      0.68       163
+             Red junglefowl       0.00      0.00      0.00         3
+                 Red munjac       0.00      0.00      0.00         2
+                Red muntjac       0.95      0.95      0.95       551
+                   Roulroul       1.00      0.79      0.88        14
+                  SFD Staff       0.96      0.87      0.91        84
+                Sambar deer       0.97      0.92      0.94      4230
+       Short-tailed babbler       1.00      0.50      0.67         4
+      Short-tailed mongoose       0.93      0.57      0.71        98
+                      Skink       0.00      0.00      0.00         2
+         Small-clawed otter       1.00      0.60      0.75        10
+               Smooth otter       0.00      0.00      0.00         1
+                      Snail       1.00      0.12      0.21        17
+                      Snake       0.00      0.00      0.00        27
+                   Squirrel       0.82      0.25      0.38        36
+              Storm's stork       0.00      0.00      0.00         3
+                   Sun bear       0.91      0.76      0.83       794
+                       Team       0.96      0.95      0.96      8671
+     Thick-spined porcupine       0.91      0.76      0.83       385
+                 Tree shrew       0.00      0.00      0.00         2
+     Tufted ground squirrel       1.00      0.46      0.63        13
+                    Unknown       0.81      0.39      0.53       108
+                     Unsure       0.80      0.16      0.26        51
+                    Vehicle       0.95      0.97      0.96     12889
+            Western tarsier       0.00      0.00      0.00         2
+       White-crowned sharma       0.00      0.00      0.00         1
+      Yellow-bellied prinia       0.00      0.00      0.00         1
+     Yellow-throated marten       1.00      0.69      0.82        59
+
+                avg / total       0.95      0.95      0.95    102288
