@@ -1,0 +1,189 @@
+\documentclass[10pt]{beamer}
+\usetheme[
+%%% option passed to the outer theme
+%    progressstyle=fixedCircCnt,   % fixedCircCnt, movingCircCnt (moving is deault)
+  ]{Feather}
+  
+% If you want to change the colors of the various elements in the theme, edit and uncomment the following lines
+
+% Change the bar colors:
+%\setbeamercolor{Feather}{fg=red!20,bg=red}
+
+% Change the color of the structural elements:
+%\setbeamercolor{structure}{fg=red}
+
+% Change the frame title text color:
+%\setbeamercolor{frametitle}{fg=blue}
+
+% Change the normal text color background:
+%\setbeamercolor{normal text}{fg=black,bg=gray!10}
+
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{section in toc}[sections numbered]
+\setbeamertemplate{subsection in toc}[square]
+%\setbeamertemplate{bibliography item}{\insertbiblabel}
+\setbeamertemplate{bibliography item}[article]
+\setbeamertemplate{navigation symbols}{}
+
+
+%\useoutertheme{miniframes}
+
+%-------------------------------------------------------
+% INCLUDE PACKAGES
+%-------------------------------------------------------
+
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+
+\usepackage{tabu}
+\usepackage{booktabs}
+\usepackage[shortlabels]{enumitem}
+
+%-------------------------------------------------------
+% DEFINING AND REDEFINING COMMANDS
+%-------------------------------------------------------
+
+% colored hyperlinks
+\newcommand{\chref}[2]{
+  \href{#1}{{\usebeamercolor[bg]{Feather}#2}}
+}
+
+\renewcommand{\logofile}{images/TUD}
+
+\setitemize{label=\usebeamerfont*{itemize item}%
+  \usebeamercolor[fg]{itemize item}
+  \usebeamertemplate{itemize item}}
+
+%-------------------------------------------------------
+% INFORMATION IN THE TITLE PAGE
+%-------------------------------------------------------
+
+\title[] % [] is optional - is placed on the bottom of the sidebar on every slide
+{ % is placed on the title page
+      \textbf{Animal Biometrics}
+}
+
+\subtitle[Visual Computing Praktikum -- SS 2018]
+{
+      \textbf{Visual Computing Praktikum -- SS 2018}
+}
+
+\author[Fabian Otto]
+{      Fabian Otto \\
+      {\ttfamily fabian.otto@stud.tu-darmstadt.de}\\
+}
+
+\institute[Technische Universit\"at Darmstadt]
+{
+      
+      Graphical Interactive Systems\\
+      Technische Universit\"at Darmstadt\\
+      [\medskipamount]
+      \includegraphics[scale=.12]{images/TUD}%
+  %there must be an empty line above this line - otherwise some unwanted space is added between the university and the country (I do not know why;( )
+}
+
+\logo{
+       \includegraphics[scale=.03]{images/TUD}%
+}
+
+\date{\today}
+
+%\AtBeginSection[]
+%{
+% \begin{frame}<beamer>
+% \frametitle{Inhaltsverzeichnis}
+% \tableofcontents[currentsection]
+% \end{frame}
+%}
+
+%-------------------------------------------------------
+% THE BODY OF THE PRESENTATION
+%-------------------------------------------------------
+
+\begin{document}
+
+%-------------------------------------------------------
+% THE TITLEPAGE
+%-------------------------------------------------------
+
+{\1
+\begin{frame}[plain, noframenumbering] 
+  \titlepage 
+\end{frame}}
+
+\begin{frame}{Outline}{}
+\tableofcontents
+\end{frame}
+
+\AtBeginSection[]
+{
+	\begin{frame}{Outline}
+		\tableofcontents[currentsection]
+	\end{frame}
+}
+
+%-------------------------------------------------------
+\section{Introduction}
+%-------------------------------------------------------
+
+\begin{frame}{Introduction and Motivation}
+	\centering
+	Insert image of Animal Biometrics here 
+\end{frame}
+
+%-------------------------------------------------------
+\begin{frame}{Data Set}
+	image of Data Distribution
+\end{frame}
+
+%-------------------------------------------------------
+
+%-------------------------------------------------------
+\begin{frame}{Architecture}
+	\begin{figure}
+		\includegraphics[width=\columnwidth]{images/resnet.png}
+		\caption{ResNet Architecure}
+	\end{figure}
+
+	\begin{itemize}
+		\item ResNet-18, ResNet-34, ResNet-50
+		\item test
+	\end{itemize}
+\end{frame}
+
+%-------------------------------------------------------
+
+%-------------------------------------------------------
+\begin{frame}{Introduction}
+\end{frame}
+
+%-------------------------------------------------------
+
+\begin{frame}[allowframebreaks]{Bibliography}
+		\bibliographystyle{abbrv}
+		\bibliography{bibliography}
+		
+		% abstract 
+		\nocite{ichikawa:2002}
+		\nocite{Hao:2012}
+		\nocite{buono:2007}
+		\nocite{boegl:2013}
+		\nocite{boegl:2014}
+		\nocite{steed:2017}
+		
+		% spatial
+		\nocite{maciejewski:2011}
+		\nocite{Andrienko:2010:Space}
+\end{frame}
+
+%-------------------------------------------------------
+
+{\1
+\begin{frame}[plain,noframenumbering]
+  \finalpage{Thank you for listening}
+\end{frame}}
+
+\end{document}
