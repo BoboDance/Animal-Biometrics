@@ -147,7 +147,7 @@
 		\centering
 		\begin{figure}
 			\includegraphics[width=\linewidth,height=.8\textheight,keepaspectratio]{images/Data_dist_leo_lines_sorted_hori.png}
-			\caption{ResNet Architecure}
+			\caption{Data distribution of individuals data set}
 		\end{figure}
 	\end{minipage}
 	\hfill
@@ -155,7 +155,7 @@
 		\begin{itemize}
 			\item Unbalanced data distribution (3 to 99 images per class)
 			\item 29 Classes/Individuals
-			\item Low quality image from camera traps
+			\item Low quality images from camera traps
 		\end{itemize}
 	\end{minipage}
 \end{frame}
@@ -187,20 +187,17 @@
 		\begin{figure}
 			\includegraphics[width=.95\linewidth,height=\textheight,keepaspectratio]{images/example_bad_DFR_7_female.JPG}
 			\includegraphics[width=.95\linewidth,height=\textheight,keepaspectratio]{images/example_bad_KFR_3_Male.JPG}
-%			\caption{DFR 7 Female}
 		\end{figure}
-%		\begin{figure}
-%			\includegraphics[width=\linewidth,height=\textheight,keepaspectratio]{images/example_bad_KFR_3_Male.JPG}
-%%			\caption{KFR 3 Male}
-%		\end{figure}
 	\end{minipage}
 	\hfill
 	\begin{minipage}[c]{0.48\linewidth}
 		\begin{figure}
 			\includegraphics[width=\linewidth,height=\textheight,keepaspectratio]{images/example_bad_DFR_9_female.JPG}
-%			\caption{DFR 9 Female}
+			\caption{Bad quality training images}	
 		\end{figure}
 	\end{minipage}
+
+
 \end{frame}
 
 %-------------------------------------------------------
@@ -369,7 +366,7 @@
 
 %-------------------------------------------------------
 
-\begin{frame}{Good Example Images}		
+\begin{frame}{Some Example Images}		
 	\centering
 	\begin{minipage}[c]{0.48\linewidth}
 		\begin{figure}
@@ -387,7 +384,7 @@
 \end{frame}
 
 %-------------------------------------------------------
-\section{Results}
+\subsection{Results}
 %-------------------------------------------------------
 
 \begin{frame}{Scores}
@@ -406,6 +403,16 @@
 			\item Avg. F1-Score: 0.95
 		\end{itemize}
 	\end{minipage}
+\end{frame}
+
+%-------------------------------------------------------
+
+\begin{frame}{Training Process}
+	\centering
+	\begin{figure}
+		\includegraphics[width=.9\columnwidth,height=\textheight,keepaspectratio]{images/acc.png}
+		\caption{Accuracy development}
+	\end{figure}
 \end{frame}
 
 %-------------------------------------------------------
@@ -459,6 +466,36 @@
 \end{frame}
 
 %-------------------------------------------------------
+\subsection{Finetuning for Individuals}
+%-------------------------------------------------------
+
+\begin{frame}{Training Process}
+	\centering
+	\begin{figure}
+		\includegraphics[width=.9\columnwidth,height=\textheight,keepaspectratio]{images/Acc_finetune_leo_both.png}
+		\caption{Accuracy development}
+	\end{figure}
+\end{frame}
+
+%-------------------------------------------------------
+
+\begin{frame}{Some Examples}
+	\centering
+	\begin{figure}
+		\includegraphics[width=\columnwidth]{images/finetune_Attention.png}
+		\caption{Mismatch because of class similarity}
+	\end{figure}
+\end{frame}
+
+%-------------------------------------------------------
+
+\begin{frame}{Some Examples}
+	\centering
+	\begin{figure}
+		\includegraphics[width=\columnwidth]{images/finetune_Attention_later.png}
+		\caption{Mismatch because of class similarity}
+	\end{figure}
+\end{frame}
 
 %\begin{frame}[allowframebreaks]{Bibliography}
 %		\bibliographystyle{abbrv}
