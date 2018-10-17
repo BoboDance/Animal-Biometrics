@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.13)  14 OCT 2018 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.13)  17 OCT 2018 11:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1672,177 +1672,179 @@ Missing character: There is no ; in font nullfont!
 File: images/conf_mat_leo_v2.png Graphic file (type png)
 
 <use images/conf_mat_leo_v2.png>
-Package pdftex.def Info: images/conf_mat_leo_v2.png used on input line 240.
+Package pdftex.def Info: images/conf_mat_leo_v2.png used on input line 241.
 (pdftex.def)             Requested size: 178.22868pt x 152.70232pt.
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 241.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 240.
+Package pdftex.def Info: images/TUD.png used on input line 241.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 240.
+Package pdftex.def Info: images/TUD.png used on input line 241.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [10
 
  <./images/conf_mat_leo_v2.png>]
-<images/result_leo_3.png, id=192, 1127.21124pt x 583.17876pt>
+<images/result_leo_3.png, id=193, 1127.21124pt x 583.17876pt>
 File: images/result_leo_3.png Graphic file (type png)
 
 <use images/result_leo_3.png>
-Package pdftex.def Info: images/result_leo_3.png used on input line 249.
+Package pdftex.def Info: images/result_leo_3.png used on input line 250.
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 249.
+Package pdftex.def Info: images/TUD.png used on input line 250.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 249.
+Package pdftex.def Info: images/TUD.png used on input line 250.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [11
 
  <./images/result_leo_3.png>]
-<images/result_leo_2.png, id=201, 1127.21124pt x 583.17876pt>
+<images/result_leo_2.png, id=202, 1127.21124pt x 583.17876pt>
 File: images/result_leo_2.png Graphic file (type png)
 
 <use images/result_leo_2.png>
-Package pdftex.def Info: images/result_leo_2.png used on input line 260.
+Package pdftex.def Info: images/result_leo_2.png used on input line 261.
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 260.
+Package pdftex.def Info: images/TUD.png used on input line 261.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 260.
+Package pdftex.def Info: images/TUD.png used on input line 261.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [12
 
  <./images/result_leo_2.png>]
-<images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg, id=210, 297.3
+<images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg, id=211, 297.3
 6093pt x 209.28188pt>
 File: images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg Graphic f
 ile (type jpg)
 
 <use images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg>
 Package pdftex.def Info: images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0
-_0001.jpg used on input line 270.
+_0001.jpg used on input line 271.
 (pdftex.def)             Requested size: 276.57002pt x 194.64926pt.
 
-Overfull \vbox (11.38605pt too high) detected at line 270
+Overfull \vbox (11.38605pt too high) detected at line 271
  []
 
 File: images/TUD.png Graphic file (type png)
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 270.
+Package pdftex.def Info: images/TUD.png used on input line 271.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 270.
+Package pdftex.def Info: images/TUD.png used on input line 271.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [13
 
  <./images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg>]
-<images/Attention_Leo_Stamp2.png, id=219, 1127.21124pt x 583.17876pt>
+<images/Attention_Leo_Stamp2.png, id=220, 1127.21124pt x 583.17876pt>
 File: images/Attention_Leo_Stamp2.png Graphic file (type png)
 
 <use images/Attention_Leo_Stamp2.png>
-Package pdftex.def Info: images/Attention_Leo_Stamp2.png used on input line 287
+Package pdftex.def Info: images/Attention_Leo_Stamp2.png used on input line 288
 .
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 287.
+Package pdftex.def Info: images/TUD.png used on input line 288.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 287.
+Package pdftex.def Info: images/TUD.png used on input line 288.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [14
 
  <./images/Attention_Leo_Stamp2.png>]
-<images/retinanet.png, id=228, 894.34125pt x 243.91125pt>
+<images/retinanet.png, id=229, 894.34125pt x 243.91125pt>
 File: images/retinanet.png Graphic file (type png)
 
 <use images/retinanet.png>
-Package pdftex.def Info: images/retinanet.png used on input line 306.
+Package pdftex.def Info: images/retinanet.png used on input line 307.
 (pdftex.def)             Requested size: 307.28987pt x 83.80705pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 306.
+Package pdftex.def Info: images/TUD.png used on input line 307.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 306.
+Package pdftex.def Info: images/TUD.png used on input line 307.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [15
 
  <./images/retinanet.png (PNG copy)>]
-<images/conf_mat_leo_retina.png, id=235, 834.11626pt x 714.67pt>
+<images/conf_mat_leo_retina.png, id=239, 834.11626pt x 714.67pt>
 File: images/conf_mat_leo_retina.png Graphic file (type png)
 
 <use images/conf_mat_leo_retina.png>
-Package pdftex.def Info: images/conf_mat_leo_retina.png used on input line 326.
+Package pdftex.def Info: images/conf_mat_leo_retina.png used on input line 328.
 
 (pdftex.def)             Requested size: 178.22868pt x 152.70232pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 326.
+Package pdftex.def Info: images/TUD.png used on input line 328.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 326.
+Package pdftex.def Info: images/TUD.png used on input line 328.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [16
 
  <./images/conf_mat_leo_retina.png>]
-<images/RetinaNet_Attention_correct_good_quality2.png, id=244, 1141.26375pt x 4
+<images/RetinaNet_Attention_correct_good_quality2.png, id=248, 1141.26375pt x 4
 31.6125pt>
 File: images/RetinaNet_Attention_correct_good_quality2.png Graphic file (type p
 ng)
  <use images/RetinaNet_Attention_correct_good_quality2.png>
 Package pdftex.def Info: images/RetinaNet_Attention_correct_good_quality2.png u
-sed on input line 335.
+sed on input line 337.
 (pdftex.def)             Requested size: 307.28987pt x 116.21422pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 335.
+Package pdftex.def Info: images/TUD.png used on input line 337.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 335.
+Package pdftex.def Info: images/TUD.png used on input line 337.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [17
 
  <./images/RetinaNet_Attention_correct_good_quality2.png>]
-<images/RetinaNet_No_Attention_correct2.png, id=253, 1141.26375pt x 431.6125pt>
+<images/RetinaNet_No_Attention_correct2.png, id=257, 1141.26375pt x 431.6125pt>
 File: images/RetinaNet_No_Attention_correct2.png Graphic file (type png)
 <use images/RetinaNet_No_Attention_correct2.png>
 Package pdftex.def Info: images/RetinaNet_No_Attention_correct2.png used on inp
-ut line 345.
+ut line 347.
 (pdftex.def)             Requested size: 307.28987pt x 116.21422pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 345.
+Package pdftex.def Info: images/TUD.png used on input line 347.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 345.
+Package pdftex.def Info: images/TUD.png used on input line 347.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [18
@@ -1851,254 +1853,254 @@ Missing character: There is no ; in font nullfont!
 (./Otto_Fabian_Animal_Biometrics_presentation.toc)
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 348.
+Package pdftex.def Info: images/TUD.png used on input line 350.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 348.
+Package pdftex.def Info: images/TUD.png used on input line 350.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [19
 
 ]
-<images/Data_dist_sorted_reduced_v2.png, id=279, 1046.91125pt x 1181.41376pt>
+<images/Data_dist_sorted_reduced_v2.png, id=283, 1046.91125pt x 1181.41376pt>
 File: images/Data_dist_sorted_reduced_v2.png Graphic file (type png)
 
 <use images/Data_dist_sorted_reduced_v2.png>
 Package pdftex.def Info: images/Data_dist_sorted_reduced_v2.png used on input l
-ine 369.
+ine 371.
 (pdftex.def)             Requested size: 147.4931pt x 166.44235pt.
 
-Underfull \hbox (badness 5302) in paragraph at lines 369--369
+Underfull \hbox (badness 5302) in paragraph at lines 371--371
 \T1/phv/m/n/10 (3 to 190k+ im-ages per
  []
 
 File: images/TUD.png Graphic file (type png)
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 369.
+Package pdftex.def Info: images/TUD.png used on input line 371.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 369.
+Package pdftex.def Info: images/TUD.png used on input line 371.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [20
 
  <./images/Data_dist_sorted_reduced_v2.png>] <images/example_marbled_cat.JPG, i
-d=287, 2055.68pt x 1446.40375pt>
+d=291, 2055.68pt x 1446.40375pt>
 File: images/example_marbled_cat.JPG Graphic file (type jpg)
 
 <use images/example_marbled_cat.JPG>
-Package pdftex.def Info: images/example_marbled_cat.JPG used on input line 388.
+Package pdftex.def Info: images/example_marbled_cat.JPG used on input line 390.
 
 (pdftex.def)             Requested size: 147.48814pt x 103.77461pt.
 
-<images/example_mouse_deer.JPG, id=288, 2055.68pt x 1446.40375pt>
+<images/example_mouse_deer.JPG, id=292, 2055.68pt x 1446.40375pt>
 File: images/example_mouse_deer.JPG Graphic file (type jpg)
 
 <use images/example_mouse_deer.JPG>
-Package pdftex.def Info: images/example_mouse_deer.JPG used on input line 388.
+Package pdftex.def Info: images/example_mouse_deer.JPG used on input line 390.
 (pdftex.def)             Requested size: 147.48814pt x 103.77461pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 388.
+Package pdftex.def Info: images/TUD.png used on input line 390.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 388.
+Package pdftex.def Info: images/TUD.png used on input line 390.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [21
 
  <./images/example_marbled_cat.JPG> <./images/example_mouse_deer.JPG>]
-<images/conf_mat_simple.png, id=296, 825.0825pt x 722.7pt>
+<images/conf_mat_simple.png, id=300, 825.0825pt x 722.7pt>
 File: images/conf_mat_simple.png Graphic file (type png)
 
 <use images/conf_mat_simple.png>
-Package pdftex.def Info: images/conf_mat_simple.png used on input line 410.
+Package pdftex.def Info: images/conf_mat_simple.png used on input line 413.
 (pdftex.def)             Requested size: 178.22868pt x 156.10529pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 410.
+Package pdftex.def Info: images/TUD.png used on input line 413.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 410.
+Package pdftex.def Info: images/TUD.png used on input line 413.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [22
 
  <./images/conf_mat_simple.png>]
-<images/acc.png, id=305, 523.9575pt x 174.6525pt>
+<images/acc.png, id=309, 523.9575pt x 174.6525pt>
 File: images/acc.png Graphic file (type png)
  <use images/acc.png>
-Package pdftex.def Info: images/acc.png used on input line 420.
+Package pdftex.def Info: images/acc.png used on input line 423.
 (pdftex.def)             Requested size: 276.56886pt x 92.18962pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 420.
+Package pdftex.def Info: images/TUD.png used on input line 423.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 420.
+Package pdftex.def Info: images/TUD.png used on input line 423.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [23
 
  <./images/acc.png>]
-<images/Attention_right6.png, id=314, 845.40843pt x 434.37282pt>
+<images/Attention_right6.png, id=318, 845.40843pt x 434.37282pt>
 File: images/Attention_right6.png Graphic file (type png)
 
 <use images/Attention_right6.png>
-Package pdftex.def Info: images/Attention_right6.png used on input line 430.
+Package pdftex.def Info: images/Attention_right6.png used on input line 433.
 (pdftex.def)             Requested size: 307.28987pt x 157.88527pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 430.
+Package pdftex.def Info: images/TUD.png used on input line 433.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 430.
+Package pdftex.def Info: images/TUD.png used on input line 433.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [24
 
  <./images/Attention_right6.png>]
-<images/Attention_right5.png, id=323, 845.40843pt x 434.37282pt>
+<images/Attention_right5.png, id=327, 845.40843pt x 434.37282pt>
 File: images/Attention_right5.png Graphic file (type png)
 
 <use images/Attention_right5.png>
-Package pdftex.def Info: images/Attention_right5.png used on input line 440.
+Package pdftex.def Info: images/Attention_right5.png used on input line 443.
 (pdftex.def)             Requested size: 307.28987pt x 157.88527pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 440.
+Package pdftex.def Info: images/TUD.png used on input line 443.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 440.
+Package pdftex.def Info: images/TUD.png used on input line 443.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [25
 
  <./images/Attention_right5.png>]
-<images/Attention_wrong_right.png, id=333, 1127.21124pt x 583.17876pt>
+<images/Attention_wrong_right.png, id=337, 1127.21124pt x 583.17876pt>
 File: images/Attention_wrong_right.png Graphic file (type png)
 
 <use images/Attention_wrong_right.png>
 Package pdftex.def Info: images/Attention_wrong_right.png used on input line 45
-0.
+3.
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 450.
+Package pdftex.def Info: images/TUD.png used on input line 453.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 450.
+Package pdftex.def Info: images/TUD.png used on input line 453.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [26
 
  <./images/Attention_wrong_right.png>]
-<images/Attention_wrong.png, id=342, 1127.21124pt x 579.16376pt>
+<images/Attention_wrong.png, id=346, 1127.21124pt x 579.16376pt>
 File: images/Attention_wrong.png Graphic file (type png)
 
 <use images/Attention_wrong.png>
-Package pdftex.def Info: images/Attention_wrong.png used on input line 460.
+Package pdftex.def Info: images/Attention_wrong.png used on input line 463.
 (pdftex.def)             Requested size: 307.28987pt x 157.88748pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 460.
+Package pdftex.def Info: images/TUD.png used on input line 463.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 460.
+Package pdftex.def Info: images/TUD.png used on input line 463.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [27
 
  <./images/Attention_wrong.png>]
-<images/mismatch.png, id=351, 1127.21124pt x 579.16376pt>
+<images/mismatch.png, id=355, 1127.21124pt x 579.16376pt>
 File: images/mismatch.png Graphic file (type png)
 
 <use images/mismatch.png>
-Package pdftex.def Info: images/mismatch.png used on input line 470.
+Package pdftex.def Info: images/mismatch.png used on input line 473.
 (pdftex.def)             Requested size: 307.28987pt x 157.88748pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 470.
+Package pdftex.def Info: images/TUD.png used on input line 473.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 470.
+Package pdftex.def Info: images/TUD.png used on input line 473.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [28
 
  <./images/mismatch.png>]
-<images/Acc_finetune_leo_both.png, id=360, 517.18219pt x 175.40532pt>
+<images/Acc_finetune_leo_both.png, id=364, 517.18219pt x 175.40532pt>
 File: images/Acc_finetune_leo_both.png Graphic file (type png)
 
 <use images/Acc_finetune_leo_both.png>
 Package pdftex.def Info: images/Acc_finetune_leo_both.png used on input line 48
-2.
+5.
 (pdftex.def)             Requested size: 276.56741pt x 93.79942pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 482.
+Package pdftex.def Info: images/TUD.png used on input line 485.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 482.
+Package pdftex.def Info: images/TUD.png used on input line 485.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [29
 
  <./images/Acc_finetune_leo_both.png>]
-<images/finetune_Attention.png, id=368, 1127.21124pt x 583.17876pt>
+<images/finetune_Attention.png, id=372, 1127.21124pt x 583.17876pt>
 File: images/finetune_Attention.png Graphic file (type png)
 
 <use images/finetune_Attention.png>
-Package pdftex.def Info: images/finetune_Attention.png used on input line 492.
+Package pdftex.def Info: images/finetune_Attention.png used on input line 495.
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 492.
+Package pdftex.def Info: images/TUD.png used on input line 495.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 492.
+Package pdftex.def Info: images/TUD.png used on input line 495.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
 
 [30
 
  <./images/finetune_Attention.png>]
-<images/finetune_Attention_later.png, id=377, 1127.21124pt x 583.17876pt>
+<images/finetune_Attention_later.png, id=381, 1127.21124pt x 583.17876pt>
 File: images/finetune_Attention_later.png Graphic file (type png)
 
 <use images/finetune_Attention_later.png>
 Package pdftex.def Info: images/finetune_Attention_later.png used on input line
- 502.
+ 505.
 (pdftex.def)             Requested size: 307.28987pt x 158.98203pt.
 File: images/TUD.png Graphic file (type png)
  <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 502.
+Package pdftex.def Info: images/TUD.png used on input line 505.
 (pdftex.def)             Requested size: 8.13002pt x 9.63557pt.
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 502.
+Package pdftex.def Info: images/TUD.png used on input line 505.
 (pdftex.def)             Requested size: 26.71864pt x 31.66608pt.
 Missing character: There is no ; in font nullfont!
  [31
@@ -2107,13 +2109,11 @@ Missing character: There is no ; in font nullfont!
 File: images/TUD.png Graphic file (type png)
 
 <use images/TUD.png>
-Package pdftex.def Info: images/TUD.png used on input line 526.
+Package pdftex.def Info: images/TUD.png used on input line 529.
 (pdftex.def)             Requested size: 32.52008pt x 38.54233pt.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 526.
 File: Feathergraphics/1.pdf Graphic file (type pdf)
  <use Feathergraphics/1.pdf>
-Package pdftex.def Info: Feathergraphics/1.pdf used on input line 526.
+Package pdftex.def Info: Feathergraphics/1.pdf used on input line 529.
 (pdftex.def)             Requested size: 364.19992pt x 273.15736pt.
  [32
 
@@ -2127,21 +2127,21 @@ Package pdftex.def Info: Feathergraphics/1.pdf used on input line 526.
 \tf@snm=\write8
 \openout8 = `Otto_Fabian_Animal_Biometrics_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 531.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 531.
 
 (./Otto_Fabian_Animal_Biometrics_presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 531.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 531.
 Package rerunfilecheck Info: File `Otto_Fabian_Animal_Biometrics_presentation.o
 ut' has not changed.
 (rerunfilecheck)             Checksum: 1E007AD28325B18383EDA9C68F81DAA8;645.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 528.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 531.
  ) 
 Here is how much of TeX's memory you used:
  23808 strings out of 493029
  455633 string characters out of 6136233
- 522436 words of memory out of 5000000
+ 523436 words of memory out of 5000000
  26669 multiletter control sequences out of 15000+600000
  48939 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2156,11 +2156,11 @@ e1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 ftt0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on Otto_Fabian_Animal_Biometrics_presentation.pdf (32 pages, 963
-2047 bytes).
+Output written on Otto_Fabian_Animal_Biometrics_presentation.pdf (32 pages, 961
+6934 bytes).
 PDF statistics:
- 448 PDF objects out of 1000 (max. 8388607)
- 336 compressed objects within 4 object streams
+ 451 PDF objects out of 1000 (max. 8388607)
+ 338 compressed objects within 4 object streams
  75 named destinations out of 1000 (max. 500000)
  283 words of extra memory for PDF output out of 10000 (max. 10000000)
 
