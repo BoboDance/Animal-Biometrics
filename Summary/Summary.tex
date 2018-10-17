@@ -371,7 +371,7 @@
 	Based on the experiments describe previously, a baseline for evaluation needs to be established. 
 	A good start for this could be to use a pre-trained VGGNet or ResNet (maybe even use Alex and GooLeNet) in order to predict individuals. 
 	In the next steps fine-tuning these models should be tried to validate, which architectures can actually help to solve this problem. 
-	If the quality seems to be too low, approaches like Deep image Prior \cite{Ulyanov:2017} could be worth a look.
+	If the quality seems to be too low, approaches like Deep Image Prior \cite{Ulyanov:2017} could be worth a look.
 	Otherwise different crops and flips of the images could improve  training size and generalization.
 	In the next stages validating the bilinear pooling model on the dataset is an option.
 	Hereby, alternatives of the original implementation could be used, i.e. using different CNN architectures and combining prediction and features extraction in a single network instead of using SVMs afterwards.
