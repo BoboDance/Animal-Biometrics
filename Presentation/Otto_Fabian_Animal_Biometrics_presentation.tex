@@ -185,8 +185,9 @@
 	\centering
 	\begin{minipage}[c]{0.48\linewidth}
 		\begin{figure}
-			\includegraphics[width=.95\linewidth,height=\textheight,keepaspectratio]{images/example_bad_DFR_7_female.JPG}
-			\includegraphics[width=.95\linewidth,height=\textheight,keepaspectratio]{images/example_bad_KFR_3_Male.JPG}
+			\includegraphics[width=.95\linewidth,keepaspectratio]{images/example_bad_DFR_7_female.JPG}
+			\hfill
+			\includegraphics[width=.95\linewidth,keepaspectratio]{images/example_bad_KFR_3_Male.JPG}
 		\end{figure}
 	\end{minipage}
 	\hfill
@@ -207,7 +208,7 @@
 \begin{frame}{Architecture}
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/resnet.png}
-		\caption{ResNet Architecure}
+		\caption{ResNet Architecture\newline{} [\url{https://www.codeproject.com/Articles/1248963/Deep-Learning-using-Python-plus-Keras-Chapter-Re}]}
 	\end{figure}
 
 	\begin{itemize}
@@ -225,15 +226,15 @@
 	\begin{minipage}[c]{0.58\linewidth}
 		\begin{figure}
 			\includegraphics[width=\columnwidth]{images/conf_mat_leo_v2.png}
-			\caption{Network Attention}
+			\caption{Confusion matrix for finetuned Resnet-50}
 		\end{figure}
 	\end{minipage}
 	\begin{minipage}[c]{0.38\linewidth}
 		\begin{itemize}
-			\item Test Accuracy: 0.91
-			\item Avg. Precision: 0.91          
-			\item Avg. Recall: 0.91
-			\item Avg. F1-Score: 0.90
+			\item Test Accuracy: $0.91$
+			\item Avg. Precision: $0.91$      
+			\item Avg. Recall: $0.91$
+			\item Avg. F1-Score: $0.90$
 		\end{itemize}
 	\end{minipage}
 \end{frame}
@@ -243,7 +244,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/result_leo_3.png}
-		\caption{Network Attention}
+		\caption{Network attention on background}
 	\end{figure}
 \end{frame}
 
@@ -254,7 +255,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/result_leo_2.png}
-		\caption{Network Attention}
+		\caption{Network Attention on background}
 	\end{figure}
 \end{frame}
 
@@ -264,7 +265,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=.9\columnwidth,height=\textheight,keepaspectratio]{images/Pretrain_acc_ResNet50_cropped_heavy_augment_lr0_0001.jpg}
-		\caption{Accuracy development}
+		\caption{Accuracy during Training}
 	\end{figure}
 \end{frame}
 
@@ -290,14 +291,17 @@
 \begin{frame}{Using Bounding Boxes}
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/retinanet.png}
-		\caption{ResNet Architecure}
+		\caption{RetinaNet Architecture}
 	\end{figure}
 
 	\begin{itemize}
-		\item losses semantic information an detect small objects RPN
-		\item used preferred backbone
-		\item extract after each pooling layer feature maps -- Feature pyramid network based on resnet
-		\item Manual annotation of images
+		\item One stage detector with similar performance as Faster R-CNN
+		\item Main improvement: Focal Loss
+%		The novel focal loss focuses training on a sparse set of hard examples and prevents the vast number of easy negatives from overwhelming the detector during training.
+%		\item losses semantic information an detect small objects RPN
+%		\item used preferred backbone
+%		\item extract after each pooling layer feature maps -- Feature pyramid network based on resnet
+		\item Manual annotation of bounding boxes required
 	\end{itemize}
 \end{frame}
 
@@ -308,7 +312,7 @@
 	\begin{minipage}[c]{0.58\linewidth}
 		\begin{figure}
 			\includegraphics[width=\columnwidth]{images/conf_mat_leo_retina.png}
-			\caption{Network Attention}
+			\caption{Confusion matrix for finetuned RetinaNet with ResNet-50 backbone}
 		\end{figure}
 	\end{minipage}
 	\begin{minipage}[c]{0.38\linewidth}
@@ -326,7 +330,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/RetinaNet_Attention_correct_good_quality2.png}
-		\caption{Network attention on logo and time stamp}
+		\caption{RentinaNet attention on animal}
 	\end{figure}
 \end{frame}
 
@@ -336,7 +340,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/RetinaNet_No_Attention_correct2.png}
-		\caption{Network attention on logo and time stamp}
+		\caption{RentinaNet attention on background}
 	\end{figure}
 \end{frame}
 
@@ -351,7 +355,7 @@
 		\centering
 		\begin{figure}
 			\includegraphics[width=\linewidth,height=.8\textheight,keepaspectratio]{images/Data_dist_sorted_reduced_v2.png}
-			\caption{Reduced Data distribution of Species data set}
+			\caption{Reduced data distribution of species data set}
 		\end{figure}
 	\end{minipage}
 	\hfill
@@ -392,7 +396,7 @@
 	\begin{minipage}[c]{0.58\linewidth}
 		\begin{figure}
 			\includegraphics[width=\columnwidth]{images/conf_mat_simple.png}
-			\caption{Reduced confusion matrix}
+			\caption{Reduced confusion matrix for finetuned ResNet-50}
 		\end{figure}
 	\end{minipage}
 	\begin{minipage}[c]{0.38\linewidth}
@@ -411,7 +415,7 @@
 	\centering
 	\begin{figure}
 		\includegraphics[width=.9\columnwidth,height=\textheight,keepaspectratio]{images/acc.png}
-		\caption{Accuracy development}
+		\caption{Accuracy during Training}
 	\end{figure}
 \end{frame}
 
@@ -469,31 +473,31 @@
 \subsection{Finetuning for Individuals}
 %-------------------------------------------------------
 
-\begin{frame}{Training Process}
+\begin{frame}{Finetuning for Individuals}
 	\centering
 	\begin{figure}
 		\includegraphics[width=.9\columnwidth,height=\textheight,keepaspectratio]{images/Acc_finetune_leo_both.png}
-		\caption{Accuracy development}
+		\caption{Accuracy during training}
 	\end{figure}
 \end{frame}
 
 %-------------------------------------------------------
 
-\begin{frame}{Some Examples}
+\begin{frame}{Network Attention}
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/finetune_Attention.png}
-		\caption{Mismatch because of class similarity}
+		\caption{Network attention after finetuning final dense layer}
 	\end{figure}
 \end{frame}
 
 %-------------------------------------------------------
 
-\begin{frame}{Some Examples}
+\begin{frame}{Network Attention}
 	\centering
 	\begin{figure}
 		\includegraphics[width=\columnwidth]{images/finetune_Attention_later.png}
-		\caption{Mismatch because of class similarity}
+		\caption{Network attention after finetuning complete ResNet-50}
 	\end{figure}
 \end{frame}
 
